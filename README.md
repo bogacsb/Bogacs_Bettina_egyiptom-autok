@@ -1,1 +1,1 @@
-# Bogacs_Bettina_egyiptom-autok
+# Bogacs_Bettina_egyiptomi
