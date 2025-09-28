@@ -44,7 +44,7 @@ h2{
     
 }
 .p-top-padding{
-    padding-top: 15px;
+    padding-top: 5px;
 }
 
 p{
@@ -53,5 +53,7 @@ p{
 }
 
 img{
-    padding: 15px;
+    padding: 5px;
+    border: dashed;
+    margin: 7px;
 }
